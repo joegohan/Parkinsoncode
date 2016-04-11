@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parkinson\'s Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="rate"></string>
+
+        <string name="action_settings">Settings</string>
+
+
+</resources>
